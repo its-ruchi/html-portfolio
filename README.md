@@ -1,1 +1,21 @@
 # html-portfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+</head>
+<body>
+    <h1>Ruchi's portfolio website</h1>
+    <h2>I'm a web developer</h2>
+    <h3><a href="./4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project/public/movie-ranking.html">MY favourite movies</a></h3>
+    <img src="Screenshot (4).png" height="500" alt="image of fav movies">
+<hr>
+<h3><a href="./3.4+Birthday+Invite+Project/">Birthday Invite Project</a></h3>
+<img src="Screenshot (7).png" height="400" alt="cake photo">
+<hr>
+<a href="4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project/public/contact.html">contact me</a>
+<a href="about.html">About me</a>
+</body>
+</html>
